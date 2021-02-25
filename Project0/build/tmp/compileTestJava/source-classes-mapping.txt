@@ -1,0 +1,8 @@
+dev/jimenez/utiltests/ConnectionTest.java
+ dev.jimenez.utiltests.ConnectionTest
+dev/jimenez/daotests/ClientDaoTest.java
+ dev.jimenez.daotests.ClientDaoTest
+dev/jimenez/daotests/AccountDaoTest.java
+ dev.jimenez.daotests.AccountDaoTest
+dev/jimenez/servicetests/AccountServiceTests.java
+ dev.jimenez.servicetests.AccountServiceTests

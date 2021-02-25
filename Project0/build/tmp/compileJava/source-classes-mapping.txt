@@ -1,0 +1,32 @@
+dev/jimenez/services/ClientServices.java
+ dev.jimenez.services.ClientServices
+dev/jimenez/services/AccountServices.java
+ dev.jimenez.services.AccountServices
+dev/jimenez/daos/AccountDaoLocal.java
+ dev.jimenez.daos.AccountDaoLocal
+dev/jimenez/daos/AccountDAO.java
+ dev.jimenez.daos.AccountDAO
+dev/jimenez/services/ClientServiceImpl.java
+ dev.jimenez.services.ClientServiceImpl
+dev/jimenez/entities/Account.java
+ dev.jimenez.entities.Account
+dev/jimenez/daos/ClientDAO.java
+ dev.jimenez.daos.ClientDAO
+dev/jimenez/daos/ClientDaoLocal.java
+ dev.jimenez.daos.ClientDaoLocal
+dev/jimenez/daos/AccountDaoPostgres.java
+ dev.jimenez.daos.AccountDaoPostgres
+dev/jimenez/entities/Client.java
+ dev.jimenez.entities.Client
+dev/jimenez/utils/ConnectionUtil.java
+ dev.jimenez.utils.ConnectionUtil
+dev/jimenez/services/AccountServiceImpl.java
+ dev.jimenez.services.AccountServiceImpl
+dev/jimenez/daos/ClientDaoPostgres.java
+ dev.jimenez.daos.ClientDaoPostgres
+dev/jimenez/controllers/AccountController.java
+ dev.jimenez.controllers.AccountController
+dev/jimenez/app/app.java
+ dev.jimenez.app.app
+dev/jimenez/controllers/ClientController.java
+ dev.jimenez.controllers.ClientController
